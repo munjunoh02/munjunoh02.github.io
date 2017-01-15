@@ -1,13 +1,6 @@
 ---
 layout: post
 comments: true
-title: Sample post
-categories:
-- blog
----
----
-layout: post
-comments: true
 title: "스프링은 DI라는 결론..."
 categories:
 - blog
