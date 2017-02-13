@@ -1,6 +1,25 @@
 openstack http://naleejang.tistory.com/104
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Lagom
 
 > #### *Lagom* is a Swedish word with no direct English equivalent, meaning "just the right amount"
