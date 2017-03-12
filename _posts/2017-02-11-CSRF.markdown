@@ -2,8 +2,7 @@
 layout: post
 comments: true
 title: "CSRF"
-categories:
-- blog
+permalink: /csrf/
 ---
 
 ### 상기하자.. 

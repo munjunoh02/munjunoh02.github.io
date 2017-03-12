@@ -2,8 +2,7 @@
 layout: post
 comments: true
 title: "스프링은 DI다."
-categories:
-- blog
+permalink: /spring_di/
 ---
 
 

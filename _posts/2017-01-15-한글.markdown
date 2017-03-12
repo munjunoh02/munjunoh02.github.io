@@ -2,8 +2,7 @@
 layout: post
 comments: true
 title: "한글"
-categories:
-- blog
+permalink: /hanguel/
 ---
 
 git add .

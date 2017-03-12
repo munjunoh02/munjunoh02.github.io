@@ -2,8 +2,7 @@
 layout: post
 comments: true
 title: "Maven compile"
-categories:
-- blog
+permalink: /mavne_compile/
 ---
 
 

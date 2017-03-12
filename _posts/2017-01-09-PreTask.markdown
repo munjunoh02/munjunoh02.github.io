@@ -2,8 +2,7 @@
 layout: post
 comments: true
 title: "Pre Task"
-categories:
-- blog
+permalink: /pretask/
 ---
 
 

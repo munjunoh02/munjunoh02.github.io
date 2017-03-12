@@ -2,8 +2,7 @@
 layout: post
 comments: true
 title: "Apache Tomcat"
-categories:
-- blog
+permalink: /apache/
 ---
 
 ## 아파치와 톰캣의 차이   

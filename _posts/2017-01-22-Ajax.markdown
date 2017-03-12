@@ -2,8 +2,7 @@
 layout: post
 comments: true
 title: "Ajax와 Json"
-categories:
-- blog
+permalink: /ajax/
 ---
 
 ## Ajax!
