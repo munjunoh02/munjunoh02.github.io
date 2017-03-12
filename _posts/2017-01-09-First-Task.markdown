@@ -2,8 +2,7 @@
 layout: post
 comments: true
 title: "First Task"
-categories:
-- blog
+permalink: /First_Task/
 ---
 
 
