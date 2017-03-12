@@ -1,12 +1,12 @@
 # Basic
-title: 潘柏信
+title: 입신양명
 subtitle: 个人站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
 avatarTitle: leopardpan
 # 头像里面的描述
 avatarDesc: iOS / 机器学习
-url: "http://baixin.io"
+url: "http://munjunoh02.github.io"
 
 # Comment
 comment:
@@ -15,10 +15,9 @@ comment:
 
 # Social
 social:
-    weibo: 5366874726
     github: leopardpan
     # twitter:
-    mail: leopardpan@icloud.com
+    mail: munjunoh02@naver.com
 
 # 百度统计
 # 使用博客模板请去掉或者更换 id
@@ -57,9 +56,9 @@ blog_button:
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 所有文章, description: archive, url: '/archive'}
-    - {title: 标签, description: tags, url: '/tags'}
-    - {title: 关于我, description: about, url: '/about'}
+    - {title: archive, description: archive, url: '/archive'}
+    - {title: tags, description: tags, url: '/tags'}
+    - {title: about, description: about, url: '/about'}
 
 
 # Pagination
