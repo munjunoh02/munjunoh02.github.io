@@ -2,8 +2,8 @@
 layout: post
 comments: true
 title: "First Task"
-categories:
-- blog
+date: 2017-01-09
+tags: 기타
 ---
 
 
