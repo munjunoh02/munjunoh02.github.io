@@ -13,5 +13,5 @@ mail : munjunoh02@naver.com。
 <p>
 소속 : NHN Entertainment Corp。
 <p>
-팀 : 루키열매TF。
+팀 : IT 보안실。
 <p>
